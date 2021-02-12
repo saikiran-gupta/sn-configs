@@ -1,2 +1,2 @@
-# sn-configs
+# sn-utils
 StateNational specific configurations
